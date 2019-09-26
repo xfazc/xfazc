@@ -1,0 +1,14 @@
+.imgs img:hover {
+2             transform: scale(1.5);
+3             -webkit-transform: scale(1.5); /*Safari 和 Chrome*/
+4             -moz-transform: scale(1.5); /*Firefox*/
+5             -ms-transform: scale(1.5); /*IE9*/
+6             -o-transform: scale(1.5); /*Opera*/
+7         }
+.item img:hover {
+2             transform: scale(1.5);
+3             -webkit-transform: scale(1.5); /*Safari 和 Chrome*/
+4             -moz-transform: scale(1.5); /*Firefox*/
+5             -ms-transform: scale(1.5); /*IE9*/
+6             -o-transform: scale(1.5); /*Opera*/
+7         }

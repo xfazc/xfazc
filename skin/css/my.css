@@ -1,0 +1,17 @@
+.imglistTog .list .item {
+    cursor: default;
+}
+ .item{
+    	border:none;
+    	border:hidden;
+    }
+    .item .img{
+    	border:none;
+    	border:hidden;
+    }
+    img{
+    	border="0";
+    }
+     img[src=""]{
+    opacity: 0;
+ }
